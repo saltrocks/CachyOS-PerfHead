@@ -35,8 +35,11 @@
 
 ### AMD
 
-- `amd_pstate=active` if >= Zen2
-- RAM timings (EXPO)
+- `amd_pstate=active` if >= Zen2 (enabled by default)
+
+## BIOS
+
+- RAM timings (AMD EXPO, Intel XMP)
 - Undervolting
 
 ## Programs
