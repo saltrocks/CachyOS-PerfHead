@@ -17,6 +17,7 @@
 - Custom schedulers
 	- BORE+EEVDF
 	- ECHO **(NEW ⭐)**
+        - * Forces 625HZ running tick rate
 	- LAVD **(NEW ⭐)** (already included in `scx-scheds`)
 
 ## Filesystem
