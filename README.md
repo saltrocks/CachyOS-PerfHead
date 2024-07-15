@@ -3,10 +3,12 @@
 <img src="swoletux.png" width="512">
 
 ## General
+
 - x86_64-v4 repository if CPU supports it, otherwise x86_64-v3
 - Performance CPU governor
 
 ## Kernel
+
 - Full tickless
 - 1000HZ running tick rate
 - Full preempt
@@ -19,6 +21,10 @@
 	- ECHO **(NEW ⭐)**
         - \* Forces 625HZ running tick rate
 	- LAVD **(NEW ⭐)** (already included in `scx-scheds`)
+
+## Graphics
+
+- Replace `mesa` package with `mesa-git` \[[Source-1](https://flightlesssomething.duckdns.org/benchmark/54)\]
 
 ## Filesystem
 
