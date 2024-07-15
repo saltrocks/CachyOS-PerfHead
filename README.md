@@ -2,6 +2,7 @@
 
 <img src="swoletux.png" width="512">
 
+CachyOS already includes a lot of performance optimizations by default. They will not be included here apart from the purpose of clarification or exception relating to hardware or software combination.
 ## Packages
 
 - Package repository for your specific generic architecture (x86_64-v3, x86_64-v4, znver4, etc)
