@@ -48,6 +48,6 @@
 ## Gaming
 
 - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
-- Use X11 instead of Wayland for now because of performance regressions yet to be resolved (TIMESTAMP: 2024-04-22) [^5]
+- ~Use X11 instead of Wayland for now because of performance regressions yet to be resolved (TIMESTAMP: 2024-04-22) [^5]~ Fixed for the most part, with some caveats.
 
 [^5]: https://www.youtube.com/watch?v=Xr3bLN3tZjU
