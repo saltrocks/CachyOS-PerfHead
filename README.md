@@ -1,5 +1,7 @@
 # CachyOS Performance Checklist for True PerformanceHeads
 
+<img src="swoletux.png" width="512">
+
 ## General
 - x86_64-v4 repository if CPU supports it, otherwise x86_64-v3
 - Performance CPU governor
