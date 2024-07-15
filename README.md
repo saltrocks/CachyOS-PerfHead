@@ -25,6 +25,11 @@
 
 - `amd_pstate=active` if >= Zen2
 
+## Programs
+
+- Discord -> [OpenAsar](https://openasar.dev/)
+- Firefox -> Cachy Browser
+
 # Footnotes
 
 [^1]: https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off
