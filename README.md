@@ -19,6 +19,10 @@
 	- ECHO **(NEW ⭐)**
 	- LAVD **(NEW ⭐)** (already included in `scx-scheds`)
 
+## Filesystem
+
+- XFS for regular desktop
+
 ## CPU
 
 - Disable security mitigations (`mitigations=off`) depending on your CPU [^1] [^2] [^3]
