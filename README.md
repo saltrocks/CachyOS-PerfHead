@@ -2,10 +2,9 @@
 
 <img src="swoletux.png" width="512">
 
-## General
+## Packages
 
 - Package repository for your specific generic architecture (x86_64-v3, x86_64-v4, znver4, etc)
-- Performance CPU governor
 
 ## Kernel
 
@@ -31,6 +30,7 @@
 
 ## CPU
 
+- Performance CPU governor
 - Disable security mitigations (`mitigations=off`) depending on your CPU \[[Source-1](https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off) [Source-2](https://www.phoronix.com/review/amd-inception-benchmarks) [Source-3](https://www.phoronix.com/review/retbleed-benchmark)\]
 
 ### AMD
