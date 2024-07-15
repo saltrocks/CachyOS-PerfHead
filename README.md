@@ -12,10 +12,10 @@
 - O3 level compiler optimizations
 - Full LTO
 - Transparent Hugepages
-- Custom scheduler
+- Custom schedulers
 	- BORE+EEVDF
 	- ECHO **(NEW ⭐)**
-	- LAVD **(NEW ⭐)**
+	- LAVD **(NEW ⭐)** (already included in `scx-scheds`)
 
 ## CPU
 
