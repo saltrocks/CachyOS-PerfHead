@@ -30,6 +30,10 @@
 - Discord -> [OpenAsar](https://openasar.dev/)
 - Firefox -> Cachy Browser
 
+## Gaming
+
+- [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
+
 # Footnotes
 
 [^1]: https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off
