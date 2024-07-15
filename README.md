@@ -27,6 +27,7 @@
 ## Filesystem
 
 - BTRFS \[[Source-1](https://discuss.cachyos.org/t/cachyos-performance-checklist-for-true-performanceheads/123/2)\]
+- XFS
 
 ## CPU
 
