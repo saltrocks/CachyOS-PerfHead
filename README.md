@@ -19,6 +19,7 @@
 - Custom schedulers
 	- BORE+EEVDF 👑 (current best performer, especially under stress)
 	- scx_lavd (topology unaware, works with most Intel CPUs, accordingly won't work well with CPUs that have 2 CCX such as the 7950X)
+	- scx_bpfland (best for non-gaming related workloads, unparalleled responsiveness under stress)
 
 ## Graphics
 
