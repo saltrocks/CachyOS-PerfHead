@@ -17,7 +17,7 @@
 - Custom schedulers
 	- BORE+EEVDF
 	- ECHO **(NEW ⭐)**
-        - * Forces 625HZ running tick rate
+        - \* Forces 625HZ running tick rate
 	- LAVD **(NEW ⭐)** (already included in `scx-scheds`)
 
 ## Filesystem
@@ -42,7 +42,7 @@
 
 ## Programs
 
-- Discord -> [OpenAsar](https://openasar.dev/)
+- Discord -> [OpenAsar](https://openasar.dev/), [Vesktop](https://github.com/Vencord/Vesktop)
 - Firefox -> Cachy Browser
 
 ## Gaming
