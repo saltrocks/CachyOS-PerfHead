@@ -4,7 +4,7 @@
 
 ## General
 
-- x86_64-v4 repository if CPU supports it, otherwise x86_64-v3
+- Package repository for your specific generic architecture (x86_64-v3, x86_64-v4, znver4, etc)
 - Performance CPU governor
 
 ## Kernel
