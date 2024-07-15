@@ -3,6 +3,7 @@
 <img src="swoletux.png" width="512">
 
 CachyOS already includes a lot of performance optimizations by default. They will not be included here apart from the purpose of clarification or exception relating to hardware or software combination.
+
 ## Packages
 
 - Package repository for your specific generic architecture (x86_64-v3, x86_64-v4, znver4, etc)
@@ -13,7 +14,9 @@ CachyOS already includes a lot of performance optimizations by default. They wil
 	- BORE+EEVDF (best idle performer - normal computer usage without background load)
 	- scx_lavd (topology unaware, works with most Intel CPUs, accordingly won't work well with CPUs that have 2 CCX such as the 7950X)
 	- scx_bpfland (best for non-gaming related workloads, unparalleled responsiveness under stress)
+
 ### Compilation options (most of these are already defaults)
+
 - Full tickless
 - 1000HZ running tick rate
 - Full preempt
@@ -27,7 +30,7 @@ CachyOS already includes a lot of performance optimizations by default. They wil
 
 ## Filesystem
 
-- BTRFS \[[Source-1](https://discuss.cachyos.org/t/cachyos-performance-checklist-for-true-performanceheads/123/2)\]
+- BTRFS (at zstd:3 compression)\[[Source-1](https://discuss.cachyos.org/t/cachyos-performance-checklist-for-true-performanceheads/123/2)\]
 - XFS
 
 ## CPU
