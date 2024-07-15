@@ -24,6 +24,8 @@
 ### AMD
 
 - `amd_pstate=active` if >= Zen2
+- RAM timings (EXPO)
+- Undervolting
 
 ## Programs
 
