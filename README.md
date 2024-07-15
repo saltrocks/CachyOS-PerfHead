@@ -21,11 +21,17 @@
 
 ## Filesystem
 
-- XFS for regular desktop
+- BTRFS [^1]
+
+[^1]: https://discuss.cachyos.org/t/cachyos-performance-checklist-for-true-performanceheads/123/2
 
 ## CPU
 
-- Disable security mitigations (`mitigations=off`) depending on your CPU [^1] [^2] [^3]
+- Disable security mitigations (`mitigations=off`) depending on your CPU [^2] [^3] [^4]
+
+[^2]: https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off
+[^3]: https://www.phoronix.com/review/amd-inception-benchmarks
+[^4]: https://www.phoronix.com/review/retbleed-benchmark
 
 ### AMD
 
@@ -41,11 +47,6 @@
 ## Gaming
 
 - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
-- Use X11 instead of Wayland for now because of performance regressions yet to be resolved (TIMESTAMP: 2024-04-22) [^4]
+- Use X11 instead of Wayland for now because of performance regressions yet to be resolved (TIMESTAMP: 2024-04-22) [^5]
 
-# Footnotes
-
-[^1]: https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off
-[^2]: https://www.phoronix.com/review/amd-inception-benchmarks
-[^3]: https://www.phoronix.com/review/retbleed-benchmark
-[^4]: https://www.youtube.com/watch?v=Xr3bLN3tZjU
+[^5]: https://www.youtube.com/watch?v=Xr3bLN3tZjU
